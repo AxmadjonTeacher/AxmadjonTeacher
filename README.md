@@ -1,8 +1,8 @@
 # Hey there! I'm Axmadjon 👋 
 
 <p align="left">
-  <a href="https://t.me/your_telegram_link_here"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://youtube.com/your_channel_here"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://t.me/AxmadjonTeacher" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://youtube.com/@YodgorovAxmadjon" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:ahmetyadgarovjust@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -10,17 +10,18 @@
 
 ## ⚡ About Me
 
-I am an **English Educator** and **Frontend Developer** who loves bridging the gap between language learning and interactive technology. By day, I design engaging educational experiences; by night, I build modern web applications with clean, high-impact user interfaces.
+I am a **Software Engineer** and **English Educator** who loves bridging the gap between language learning and interactive technology. I apply engineering principles to design, build, and deploy modern applications that solve real-world educational challenges.
 
 *   🏫 **Role:** English Teacher at Al-Xorazmiy School.
-*   🎨 **Design Aesthetic:** Deeply inspired by **Neo-Brutalism**, sharp contrast, and sleek digital layouts.
+*   💻 **What I Do:** Build full-stack web and mobile apps using clean architecture, sharp contrast designs, and robust backends.
+*   🎨 **Design Aesthetic:** Deeply inspired by **Neo-Brutalism** and modern high-contrast digital layouts.
 *   🧩 **Fun Fact:** I love integrating educational memes into my lessons to keep things engaging, and I enjoy the precise art of origami.
 
 ---
 
 ## 🛠️ Tech Stack & Toolkit
 
-### 💻 Frontend & Styling
+### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,7 +30,7 @@ I am an **English Educator** and **Frontend Developer** who loves bridging the g
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-### 🗄️ Backend & Tools
+### 🗄️ Backend, Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -42,7 +43,7 @@ I am an **English Educator** and **Frontend Developer** who loves bridging the g
 ## 🚀 Key Projects
 
 ### 📊 [Al-Xorazmiy Student Tracker](https://github.com/AxmadjonTeacher/Student-tacker)
-A custom, web-based student tracking platform integrated with a Supabase database and compiled into an Android package. Designed to monitor and gamify student progress.
+A web-based student tracking platform integrated with a Supabase database and packaged into an Android application wrapper. Designed to monitor and gamify student progress.
 
 ### 📝 [xTesty](https://github.com/AxmadjonTeacher/alxorazmiy)
 A dynamic test-generation platform that compiles clean, structured quizzes from uploaded spreadsheet tables.
