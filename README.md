@@ -15,7 +15,7 @@ I am a **Software Engineer** and **English Educator** who loves bridging the gap
 *   🏫 **Role:** English Teacher at Al-Xorazmiy School.
 *   💻 **What I Do:** Build full-stack web and mobile apps using clean architecture, sharp contrast designs, and robust backends.
 *   🎨 **Design Aesthetic:** Deeply inspired by **Neo-Brutalism** and modern high-contrast digital layouts.
-*   🧩 **Fun Fact:** I love integrating educational memes into my lessons to keep things engaging, and I enjoy the precise art of origami.
+*   🧩 **Fun Fact:** I love integrating educational memes into my lessons to keep things engaging.
 
 ---
 
